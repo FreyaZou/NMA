@@ -1,6 +1,6 @@
-# NMA
+# part of NMA (network meta-analysis) project
 
-* Goal: Built a RF classifier to filter out irrelevant papers that do not contain the outcome of interest so that I do not need to read every (in total 384 papers) to extract data for my project.
+* Goal: Built a  classifier to filter out irrelevant papers that do not contain the outcome of interest so that I do not need to read every (in total 384 papers) to extract data for my project.
 * Steps: 
   1. Convert text to word representation with tf_idf
   2. Meta-feature engineering
